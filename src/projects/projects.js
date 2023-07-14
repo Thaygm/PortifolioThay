@@ -37,6 +37,6 @@ export const Projetos = [
 {
     nome: 'Clone ???', img: 'HTML DO PROJ'
     , github: 'https://github.com/'
-    , vercel: 'https://agenda-contatos-seven.vercel.app/'
+    , vercel: 'https://agenda-'
 },
 ]
