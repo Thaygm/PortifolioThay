@@ -10,7 +10,7 @@ export const Projetos = [
     , vercel: 'https://estofador.vercel.app/product/1'
 },
 {
-    nome: 'Portifólio', img: 'https://raw.githubusercontent.com/Thaygm/PortifolioThay/main/src/assets/portifolio.png'
+    nome: 'Portifólio', img: 'https://raw.githubusercontent.com/Thaygm/PortifolioThay/main/src/assets/Captura%20de%20tela%202023-07-13%20221652.png'
     , github: 'https://github.com/Thaygm/PortifolioThay'
     , vercel: 'https://estofador.vercel.app/product/1'
 },
