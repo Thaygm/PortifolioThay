@@ -66,8 +66,5 @@ export const SkillsItem = [
 },
 {
     titulo: 'Wordpress', Percentual: '50%', icon: <DiWordpress size={35} color="rgb(37, 42, 52)" />
-},
-
-
-
+}
 ]

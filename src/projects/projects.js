@@ -1,16 +1,34 @@
 export const Projetos = [
   {
+    nome: "EasyPlay",
+    img: "https://raw.githubusercontent.com/Thaygm/easyPlay/refs/heads/main/Captura%20de%20tela%202024-05-13%20131957.png",
+    github: "https://github.com/Thaygm/easyPlay",
+    vercel:
+      "https://easy-play-seven.vercel.app/",
+  },
+  {
+    nome: "Efood",
+    img: "https://raw.githubusercontent.com/Thaygm/E_food/refs/heads/main/Captura%20de%20tela%202024-05-14%20151054.png",
+    github: "https://github.com/Thaygm/E_food",
+    vercel:
+      "https://e-food-dusky.vercel.app/",
+  },
+  {
+    nome: "Unlocked",
+    img: "https://raw.githubusercontent.com/Thaygm/UnlockedPage/refs/heads/main/Captura%20de%20tela%202024-09-24%20131123.png",
+    github: "https://github.com/Thaygm/UnlockedPage",
+  },
+  {
+    nome: "toDoWork",
+    img: "https://raw.githubusercontent.com/Thaygm/toDoWork/refs/heads/main/Captura%20de%20tela%202024-09-24%20131454.png",
+    github: "https://github.com/Thaygm/toDoWork",
+  },
+  {
     nome: "Clone Disney",
     img: "https://raw.githubusercontent.com/Thaygm/clone_disneyplus/main/.github/disney%2B.png",
     github: "https://github.com/Thaygm/clone_disneyplus",
     vercel:
       "https://clone-disneyplus-3f4ampnpv-thaygm.vercel.app/?vercelToolbarCode=NaKeOA31BMJgqGp",
-  },
-  {
-    nome: "Caveirinha",
-    img: "https://raw.githubusercontent.com/DenisDev3/caveirinha/main/src/assets/images/banner.jpg",
-    github: "https://github.com/DenisDev3/caveirinha",
-    vercel: "https://estofador.vercel.app/product/1",
   },
   {
     nome: "Portifólio",
