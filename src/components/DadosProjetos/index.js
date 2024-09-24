@@ -44,7 +44,7 @@ export default function () {
                     <>
                         <InfoDados initial="hidden" animate="visible" variants={variants}>
                             <span>
-                                Meu nome é Thaísa Mendes, tenho 29 anos e estudo há um ano Engenharia de Front-end.
+                                Meu nome é Thaísa Mendes, tenho 30 anos e estudo há um ano Engenharia de Front-end.
                                 Tenho experiencia com HTML5, CSS3, JavaScript, Bootstrap, ReactJS, jQuery, SASS, LESS, GULP,
                                 Grunt, Ajax, TypeScript, NPM, ES6+, Vuejs, Cypress, Jest, NodeJS, Nuxt, Tailwind, Redux, Wordpress, Metodologias Ageis (Scrum).
                                 Atualmente dedico meu tempo aos estudos, criação de projetos para o meu portifólio e freelancers.<br />
