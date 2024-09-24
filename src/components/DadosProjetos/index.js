@@ -46,8 +46,8 @@ export default function () {
                             <span>
                                 Meu nome é Thaísa Mendes, tenho 29 anos e estudo há um ano Engenharia de Front-end.
                                 Tenho experiencia com HTML5, CSS3, JavaScript, Bootstrap, ReactJS, jQuery, SASS, LESS, GULP,
-                                Grunt, Ajax, TypeScript, NPM, ES6+, Vuejs, Cypress, Metodologias Ageis.
-                                Atualmente dedico meu tempo aos estudos e criação de projetos para o meu portifólio.<br />
+                                Grunt, Ajax, TypeScript, NPM, ES6+, Vuejs, Cypress, Jest, NodeJS, Nuxt, Tailwind, Redux, Wordpress, Metodologias Ageis (Scrum).
+                                Atualmente dedico meu tempo aos estudos, criação de projetos para o meu portifólio e freelancers.<br />
                                 Curiosidade: Sou formada e Arquitetura e urbanismo e atualmente uso a criatividade e
                                 metodologia de criação de projetos baseado em projetos arquitetônicos, visando a melhor
                                 experiencia para os usuarios.<br />
